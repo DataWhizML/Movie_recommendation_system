@@ -18,4 +18,9 @@ To run the app locally, make sure you have Python and the required dependencies 
 ```bash
 pip install -r requirements.txt
 
+## Dependencies
+- Streamlit
+- Pandas
+- Requests
+
 
