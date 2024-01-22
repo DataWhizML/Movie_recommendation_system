@@ -34,7 +34,9 @@ The app will be accessible in your browser at http://localhost:8501.
 
 ## Data Source
 - The movie data is sourced from The Movie Database (TMDb).
-  
+
+## Acknowledgements
+- Movie details and posters are fetched from TMDb using their API.
 
 
 
