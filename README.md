@@ -17,10 +17,24 @@ To run the app locally, make sure you have Python and the required dependencies 
 
 ```bash
 pip install -r requirements.txt
+```
+
+## How to Run
+Execute the following command to run the app:
+
+```bash
+sh setup.sh && streamlit run app.py
+```
+The app will be accessible in your browser at http://localhost:8501.
 
 ## Dependencies
 - Streamlit
 - Pandas
 - Requests
+
+## Data Source
+- The movie data is sourced from The Movie Database (TMDb).
+  
+
 
 
